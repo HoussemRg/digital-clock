@@ -18,3 +18,4 @@ function updatTime(){
 
 setInterval(updatTime,1000);
 
+/* GOOD JOB*/
